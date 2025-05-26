@@ -37,6 +37,7 @@ C. Relasi
 
 # SQL 
 A. Gambar Navicat 
+
 ![image](https://github.com/user-attachments/assets/63fdc9f1-fccd-4dde-bf9d-23eae483864f)
 
 navicat itu untuk ngelola database yang kita punya beda nya sama phpmyadmin yang biasa digunakan itu lebih tertata 
@@ -52,17 +53,22 @@ di Navicat juga mudah saat mau membuat join / view kita tinggal tarik table nya
 ![image](https://github.com/user-attachments/assets/db2c038e-8fe3-46bf-a8ef-9d09f54a7881)
 
 # TEST BACKEND 
+
 ![image](https://github.com/user-attachments/assets/711a7e2c-4cee-4aa4-a70e-efb8cbec2407)
+
 1. Pertama Download zib backend lalu extract file dan buka visual studio code  
 2. Pergi ke terminal ketik composer install
 3. Lalu php spark serve ( untuk ngecek server lokal ) 
 4.	Coba ke postman apakah sudah jalan ? 
 
 ![image](https://github.com/user-attachments/assets/cb05f4ef-1f8a-4c0d-9b53-213c91a0a6bd)
+
 Oke done bisa jalan kan postman nya 
 
 # TEST FRONTEND 
+
 ![image](https://github.com/user-attachments/assets/97d0bb98-eddd-4e48-aee6-a5a805cc032d)
+
 1. Pertama Download zib backend lalu extract file dan buka visual studio code  
 2.	Pergi ke terminal ketik composer install
 3.	Cp .env.example .env ( nyalin file .env.example jadi .env. ) 
@@ -76,5 +82,6 @@ Oke done bisa jalan kan postman nya
 11.	Cek server apakah mau tampil ?
 
 BERHASIL LOGIN : 
+
 ![image](https://github.com/user-attachments/assets/7ca252a4-cd87-4451-9c65-6693f1f7d511)
 
