@@ -18,8 +18,20 @@ A. Gambar ERD:
 ![image](https://github.com/user-attachments/assets/81f8c7a6-30df-4021-af16-6ed17a41fbf3)
 
 B. Relasi 
+•	Satu mahasiswa hanya bisa memiliki satu data magang.
+•	Satu perusahaan bisa menerima banyak mahasiswa magang.
+•	Satu pembimbing bisa membimbing banyak mahasiswa.
+•	Tabel Magang adalah jembatan yang menghubungkan semuanya.
 
 C. Tipe Data 
+magang 
+id_magang char(10) ganti ke INT Auto incremenet. 
+Pembimbing 
+no_telp varchar(15) ganti ke char(13) 
+Perusahaan 
+id_perusahaan INT 
+Mahasiswa 
+no_telp varchar(15) ganti char(13)
 
 # SQL 
 A. Gambar Navicat 
