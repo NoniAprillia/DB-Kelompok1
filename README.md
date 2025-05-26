@@ -24,13 +24,13 @@ B. Relasi
 4. Tabel Magang adalah jembatan yang menghubungkan semuanya.
 
 C. Tipe Data 
-magang 
+a. magang 
 id_magang char(10) ganti ke INT Auto incremenet. 
-Pembimbing 
+b. Pembimbing 
 no_telp varchar(15) ganti ke char(13) 
-Perusahaan 
+c. Perusahaan 
 id_perusahaan INT 
-Mahasiswa 
+d. Mahasiswa 
 no_telp varchar(15) ganti char(13)
 
 # SQL 
