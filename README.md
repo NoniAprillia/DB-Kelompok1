@@ -38,11 +38,15 @@ C. Relasi
 # SQL 
 A. Gambar Navicat 
 ![image](https://github.com/user-attachments/assets/63fdc9f1-fccd-4dde-bf9d-23eae483864f)
+
 navicat itu untuk ngelola database yang kita punya beda nya sama phpmyadmin yang biasa digunakan itu lebih tertata 
 PERBEDAAN : 
+
  ![image](https://github.com/user-attachments/assets/568efd72-7890-419b-b753-83e1eff8bbf1)
+
 Dapat di lihat pada navicat itu lebih terpisah - pisah tempat nya 
 table , view, query jadi saat kita akan mengubah data kita tidak bingung tempat nya dimana 
 sedangkan di phpmysql itu hanya ada table dan view 
 di Navicat juga mudah saat mau membuat join / view kita tinggal tarik table nya 
+
 ![image](https://github.com/user-attachments/assets/db2c038e-8fe3-46bf-a8ef-9d09f54a7881)
