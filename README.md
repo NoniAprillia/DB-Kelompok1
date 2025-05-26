@@ -18,10 +18,10 @@ A. Gambar ERD:
 ![image](https://github.com/user-attachments/assets/81f8c7a6-30df-4021-af16-6ed17a41fbf3)
 
 B. Relasi 
-•	Satu mahasiswa hanya bisa memiliki satu data magang.
-•	Satu perusahaan bisa menerima banyak mahasiswa magang.
-•	Satu pembimbing bisa membimbing banyak mahasiswa.
-•	Tabel Magang adalah jembatan yang menghubungkan semuanya.
+1. Satu mahasiswa hanya bisa memiliki satu data magang.
+2. Satu perusahaan bisa menerima banyak mahasiswa magang.
+3. Satu pembimbing bisa membimbing banyak mahasiswa.
+4. Tabel Magang adalah jembatan yang menghubungkan semuanya.
 
 C. Tipe Data 
 magang 
