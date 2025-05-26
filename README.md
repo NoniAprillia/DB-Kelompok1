@@ -30,3 +30,5 @@ PERBEDAAN :
 Dapat di lihat pada navicat itu lebih terpisah - pisah tempat nya 
 table , view, query jadi saat kita akan mengubah data kita tidak bingung tempat nya dimana 
 sedangkan di phpmysql itu hanya ada table dan view 
+di Navicat juga mudah saat mau membuat join / view kita tinggal tarik table nya 
+![image](https://github.com/user-attachments/assets/db2c038e-8fe3-46bf-a8ef-9d09f54a7881)
